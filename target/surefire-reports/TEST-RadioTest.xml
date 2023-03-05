@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.16.101-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\Admin\AppData\Local\Temp\surefire9814284211160529772\surefirebooter4310274226073868389.jar C:\Users\Admin\AppData\Local\Temp\surefire9814284211160529772 2023-03-05T14-05-49_194-jvmRun1 surefire743743471463294433tmp surefire_07514710133191686128tmp"/>
+    <property name="sun.java.command" value="C:\Users\Admin\AppData\Local\Temp\surefire88716417413641504\surefirebooter662938318022660059.jar C:\Users\Admin\AppData\Local\Temp\surefire88716417413641504 2023-03-05T22-00-43_146-jvmRun1 surefire340204060461340375tmp surefire_017582204052820073074tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Admin\Desktop\Ucheba\untitled3\target\test-classes;C:\Users\Admin\Desktop\Ucheba\untitled3\target\classes;C:\Users\Admin\.m2\repository\org\junit\jupiter\junit-jupiter\5.7.0\junit-jupiter-5.7.0.jar;C:\Users\Admin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;C:\Users\Admin\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Admin\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Admin\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;C:\Users\Admin\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.7.0\junit-jupiter-params-5.7.0.jar;C:\Users\Admin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\Admin\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Admin\AppData\Local\Temp\surefire9814284211160529772\surefirebooter4310274226073868389.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Admin\AppData\Local\Temp\surefire88716417413641504\surefirebooter662938318022660059.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.16.1+1"/>
@@ -66,10 +66,10 @@
   <testcase name="soundLevelTest" classname="RadioTest" time="0"/>
   <testcase name="nextTestnew" classname="RadioTest" time="0"/>
   <testcase name="Test" classname="RadioTest" time="0"/>
-  <testcase name="Testnewnew" classname="RadioTest" time="0"/>
-  <testcase name="Testnew" classname="RadioTest" time="0.001"/>
+  <testcase name="Testnewnew" classname="RadioTest" time="0.001"/>
+  <testcase name="Testnew" classname="RadioTest" time="0"/>
   <testcase name="VolumeTestnew" classname="RadioTest" time="0"/>
-  <testcase name="VolumeTestnewnew" classname="RadioTest" time="0.001"/>
+  <testcase name="VolumeTestnewnew" classname="RadioTest" time="0"/>
   <testcase name="VolumeTest" classname="RadioTest" time="0"/>
   <testcase name="nextTest" classname="RadioTest" time="0.001"/>
   <testcase name="soundLevelTestnew" classname="RadioTest" time="0"/>
